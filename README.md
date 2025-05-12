@@ -87,6 +87,6 @@ Basado en el análisis, las principales conclusiones son:
 * La tienda mejor calificada fue la tienda tres con una calificación promedio de 4.05 mientras que la tienda con menor calificación fue la tienda uno con una calificación promedio de 3.98.
 
 ## Autor
-Rafael Romero
+Roji Druyard
 
 * [Tu perfil de GitHub](https://github.com/rojidruyard)
